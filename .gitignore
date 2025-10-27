@@ -1,0 +1,7 @@
+# Ignore node modules directory since it will be recreated
+# when you write npm install
+node_modules/
+
+# Ignore .DS_Store Sfiles
+#created by MAC OS
+.DS_Store
